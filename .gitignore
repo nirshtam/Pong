@@ -2,3 +2,4 @@ Base.lproj/*
 Assets.xcassets/*
 Build/*
 pong
+.DS_Store
